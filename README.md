@@ -31,7 +31,7 @@ The Dementia Prediction App utilizes a machine learning model trained on a datas
 ## Insights
 
 ### Education Level (EDUC)
-As we can observe from the plot, men with education levels between 10 and 17 have higher levels of dementia cases, and men start to show dementia symptoms with education levels as low as 4 years. In contrast, women start showing dementia symptoms after 6 years of education, with the highest peak at 13 years of age.
+As we can observe from the plot, men with education levels between 10 and 17 have higher levels of dementia cases, and men start to show dementia symptoms with education levels as low as 4 years. In contrast, women start showing dementia symptoms after 6 years of education, with the highest peak at level 13.
 
 ### Socioeconomic Status (SES)
 An intriguing pattern can be seen in the plot: for men, the highest peak is at 1, which corresponds to the highest status, and the lowest peak is at 4, corresponding to the lowest status. For women, the highest peak is at 2, with the lowest status cases reported between 1 and 5. According to this, women are less likely than men to experience dementia at both extremely high and extremely low socioeconomic class levels.
