@@ -1,7 +1,7 @@
 # Dementia Prediction App
 
 ![Dementia](images/.ipynb_checkpoints/persons-hand-holding-sticky-note-checkpoint.jpg)
-This project is a web application designed to help individuals, doctors, and healthcare providers better understand and manage dementia. The app takes into account various factors such as age, gender, education level, socioeconomic status, MMSE score, brain volumes, and other related factors to make predictions about the likelihood of dementia.
+This project is a web application designed to manage dementia based on some inputs. The app considers various factors such as age, gender, education level, socioeconomic status, MMSE score, brain volumes, and other related factors to make predictions about the likelihood of dementia.
 
 ## Table of Contents
 
@@ -50,13 +50,16 @@ The nWBV of demented males is high between 0.65 and 0.75. This difference indica
 Below are some visualizations included in the app:
 
 ### Age Distribution by Group
-![Age Distribution](images/age_distribution.png)
+![Age Distribution](images/Captureage.PNG)
 
-### MMSE Scores
-![MMSE Scores](images/mmse_scores.png)
 
-### eTIV Distribution
-![eTIV Distribution](images/etiv_distribution.png)
+### SES Status and Gender Violin Plot
+
+<p align="center">
+  <img src="images/ses.PNG" alt="SES Scores" width="45%" />
+  <img src="images/Image1_Gender.PNG" alt="Gender Distribution" width="45%" />
+</p>
+
 
 ## Setup and Installation
 
