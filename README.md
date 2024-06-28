@@ -12,9 +12,6 @@ This project is a web application designed to manage dementia based on some inpu
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Code Snippets](#code-snippets)
-- [About](#about)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -42,8 +39,8 @@ The plot reveals that for both men and women, the highest peak is at 28, close t
 ### Estimated Total Intracranial Volume (eTIV)
 The eTIV of demented females ranges from 1000 to 1850 with a peak at 1500, while for males, it ranges from 1200 to 2100. This implies that males tend to have a broader range of eTIV values and their peaks are slightly higher compared to females. This difference in eTIV distribution between genders could indicate variations in brain structure and volume related to dementia, suggesting the need for gender-specific approaches in understanding and treating the condition.
 
-### Normalized Whole Brain Volume (nWBV)
-The nWBV of demented males is high between 0.65 and 0.75. This difference indicates a variation in brain volume related to dementia between genders, suggesting different patterns of brain atrophy in men and women.
+### Gender
+As we can observe from the above plot, in case of Male most number of dementia cases are reported in the age of around 79 years while in case of females dementia is prevalent in 75 years of Age. One more observation suggests that in case of Males dementia starts early even before 60 years of age while in case of females demetia generally after 60 years of age.
 
 ## Visualizations
 
